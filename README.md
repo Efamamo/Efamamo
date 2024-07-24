@@ -1,7 +1,5 @@
 # Hi there, I'm Ephrem Mamo 👋
 
-![Profile views](https://gpvc.arturio.dev/EphremMamo)
-
 I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and user-friendly software solutions. With experience in a wide array of programming languages and frameworks, I enjoy building both the client-side and server-side components of web applications. My goal is to deliver seamless user experiences and robust backend systems that solve real-world problems.
 
 ## 🛠 Technologies & Tools
@@ -50,6 +48,16 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - Adding Polls to Groups
   - Voting
   - Displaying Results
+
+### [VoteSphere Mobile](link-to-repository)
+- **Description**: This is the mobile version of the VoteSphere project. I participated in both frontend and backend development. The application provides user authentication, authorization, and group-based poll management.
+- **Technologies**: Flutter, NestJS, PostgreSQL
+- **Key Features**:
+  - Creating Groups
+  - Adding Polls to Groups
+  - Voting
+  - Displaying Results
+  - Comments
 
 ## 📈 GitHub Stats
 ![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphremMamo&show_icons=true&theme=radical)
