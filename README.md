@@ -1,8 +1,5 @@
 # Hi there, I'm Ephrem Mamo 👋
 
-![My Image](https://avatars.githubusercontent.com/u/144004369?s=400&u=f3135ecd7d135842ccd307afac52676ef9e879e2&v=4 )
-
-
 I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and user-friendly software solutions. With experience in a wide array of programming languages and frameworks, I enjoy building both the client-side and server-side components of web applications. My goal is to deliver seamless user experiences and robust backend systems that solve real-world problems.
 
 ## 🛠 Technologies & Tools
@@ -32,7 +29,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 
 ## 🚀 Projects
 
-### [Brainz Academy](link-to-repository)
+### [Brainz Academy](https://github.com/Efamamo/BrainzAcademy)
 - **Description**: Brainz Academy provides a comprehensive range of study materials to support your learning journey, including elementary school, high school, and higher-level education materials. It also features general knowledge facts and interactive quizzes based on these resources.
 - **Technologies**: React JS, Node JS, Express JS, MongoDB
 - **Key Features**:
@@ -52,7 +49,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - News and Announcements
   - Reports Generation
 
-### [VoteSphere](link-to-repository)
+### [VoteSphere](https://github.com/beka-birhanu/VoteSphere--class)
 - **Description**: VoteSphere is a poll management application that allows users to work together within groups, managing polls efficiently. The application provides user authentication, authorization, and group-based poll management. This is a team project, and my role was front-end development.
 - **Technologies**: NestJS, PostgreSQL, Docker, JavaScript
 - **Key Features**:
@@ -61,7 +58,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - Voting
   - Displaying Results
 
-### [VoteSphere Mobile](link-to-repository)
+### [VoteSphere Mobile](https://github.com/Efamamo/VoteSphereBloc)
 - **Description**: This is the mobile version of the VoteSphere project. I participated in both frontend and backend development. The application provides user authentication, authorization, and group-based poll management. Managing States using bloc, riverpode and provider State management solutions.
 - **Technologies**: Flutter, NestJS, PostgreSQL
 - **Key Features**:
@@ -71,7 +68,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - Displaying Results
   - Comments
 
-### [Personal Portfolio](link-to-repository)
+### [Personal Portfolio](https://github.com/Efamamo/Personal-Portifolio)
 - **Description**: This project is a comprehensive description of myself, showcasing my skills, experiences, and projects. It serves as an online portfolio to present my professional profile.
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind, Bulma
 
@@ -79,8 +76,3 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 ![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efamamo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efamamo&layout=compact)
 
-## 🔗 Connect with me
-- [LinkedIn](link-to-linkedin-profile)
-- [Twitter](link-to-twitter-profile)
-- [Personal Website](link-to-personal-website)
-- [Email](mailto:your-email@example.com)
