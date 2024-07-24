@@ -23,10 +23,23 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Frontend Libraries
+### Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 🚀 Projects
+
+### [Digitalized Idir](https://github.com/Efamamo/DigitalizedIdir)
+- **Description**: This project is based on Ethiopian culture, specifically the Idir, a traditional community-based social institution. The application digitalizes the various functions of Idir to facilitate better communication and management within the community.
+- **Technologies**: JavaScript,Node js Express.js, MongoDB, EJS
+- **Highlights**:
+  - Notifying Events to Users
+  - Remembering Deceased Members Using Memorial
+  - Renting and Borrowing Items
+  - News and Announcements
+  - Reports Generation
+
 
