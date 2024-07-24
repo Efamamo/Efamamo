@@ -76,7 +76,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind, Bulma
 
 ## 📈 GitHub Stats
-![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphremMamo&show_icons=true&theme=radical)
+![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efamamo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremMamo&layout=compact)
 
 ## 🔗 Connect with me
