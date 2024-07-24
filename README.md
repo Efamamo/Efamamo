@@ -34,7 +34,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 
 ### [Digitalized Idir](https://github.com/Efamamo/DigitalizedIdir)
 - **Description**: This project is based on Ethiopian culture, specifically the Idir, a traditional community-based social institution. The application digitalizes the various functions of Idir to facilitate better communication and management within the community.
-- **Technologies**: JavaScript,Node js Express.js, MongoDB, EJS
+- **Technologies**: JavaScript, Express.js, MongoDB, EJS
 - **Highlights**:
   - Notifying Events to Users
   - Remembering Deceased Members Using Memorial
@@ -42,4 +42,21 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - News and Announcements
   - Reports Generation
 
+### [VoteSphere](link-to-repository)
+- **Description**: VoteSphere is a poll management application that allows users to work together within groups, managing polls efficiently. The application provides user authentication, authorization, and group-based poll management. This is a team project, and my role was front-end development.
+- **Technologies**: NestJS, PostgreSQL, Docker, JavaScript
+- **Key Features**:
+  - Creating Groups
+  - Adding Polls to Groups
+  - Voting
+  - Displaying Results
 
+## 📈 GitHub Stats
+![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphremMamo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremMamo&layout=compact)
+
+## 🔗 Connect with me
+- [LinkedIn](link-to-linkedin-profile)
+- [Twitter](link-to-twitter-profile)
+- [Personal Website](link-to-personal-website)
+- [Email](mailto:your-email@example.com)
