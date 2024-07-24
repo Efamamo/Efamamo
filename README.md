@@ -1,6 +1,6 @@
 # Hi there, I'm Ephrem Mamo 👋
 
-![Profile views](https://gpvc.arturio.dev/EphremMamo)
+![My Image](https://avatars.githubusercontent.com/u/144004369?s=400&u=f3135ecd7d135842ccd307afac52676ef9e879e2&v=4 )
 
 
 I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and user-friendly software solutions. With experience in a wide array of programming languages and frameworks, I enjoy building both the client-side and server-side components of web applications. My goal is to deliver seamless user experiences and robust backend systems that solve real-world problems.
