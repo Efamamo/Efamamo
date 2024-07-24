@@ -59,6 +59,10 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
   - Displaying Results
   - Comments
 
+### [Personal Portfolio](link-to-repository)
+- **Description**: This project is a comprehensive description of myself, showcasing my skills, experiences, and projects. It serves as an online portfolio to present my professional profile.
+- **Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind, Bulma
+
 ## 📈 GitHub Stats
 ![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphremMamo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremMamo&layout=compact)
