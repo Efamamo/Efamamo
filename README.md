@@ -77,7 +77,7 @@ I'm a Full-Stack Developer with a passion for crafting efficient, scalable, and 
 
 ## 📈 GitHub Stats
 ![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efamamo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremMamo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efamamo&layout=compact)
 
 ## 🔗 Connect with me
 - [LinkedIn](link-to-linkedin-profile)
