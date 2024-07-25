@@ -73,7 +73,7 @@ I'm a Full-Stack Web and Mobile Developer with a passion for crafting efficient,
 
     
 ### [FinderHub](https://github.com/Efamamo/FinderHub)
-- **Description**: This is the web application for finding people across the top social media networks.FinderHub makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest,Youtube and GitHub. Start your search today and discover the convenience of FinderHub!
+- **Description**: This is the web application for finding people across the top social media networks.FinderHub makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest,Youtube and GitHub.
 - **Technologies**: React, axios
 - **Key Features**:
   - Searching for users
