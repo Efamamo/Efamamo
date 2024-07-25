@@ -84,7 +84,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efamamo&layout=compact)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ephrem-mamo/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ephrem-mamo/)
 - [Personal Website](https://efamamo.github.io/UGR-1504-14-html-css-javascript/)
-- [LeetCode](https://leetcode.com/u/ephrem_mamo/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
-- [Email](mailto:ephremmamo555@gmail.com)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/ephrem_mamo/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ephremmamo555@gmail..com)
