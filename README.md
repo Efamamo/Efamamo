@@ -71,6 +71,14 @@ I'm a Full-Stack Web and Mobile Developer with a passion for crafting efficient,
   - Displaying Results
   - Comments
 
+    
+### [FinderHub](https://github.com/Efamamo/FinderHub)
+- **Description**: This is the web application for finding people across the top social media networks.FinderHub makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest,Youtube and GitHub. Start your search today and discover the convenience of FinderHub!
+- **Technologies**: React, axios
+- **Key Features**:
+  - Searching for users
+    
+
 ### [Personal Portfolio](https://github.com/Efamamo/Personal-Portifolio)
 - **Description**: This project is a comprehensive description of myself, showcasing my skills, experiences, and projects. It serves as an online portfolio to present my professional profile.
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind, Bulma
