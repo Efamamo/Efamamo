@@ -19,7 +19,6 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-
 ### Backend Frameworks
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -40,7 +39,6 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
   - General Knowledge Facts on Various Topics
   - Interactive Quizzes
   - Score Tracking and Progress Monitoring
-
 
 ### [Digitalized Idir](https://github.com/Efamamo/DigitalizedIdir)
 - **Description**: This project is based on Ethiopian culture, specifically the Idir, a traditional community-based social institution. The application digitalizes the various functions of Idir to facilitate better communication and management within the community.
@@ -71,15 +69,13 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
   - Displaying Results
   - Comments
 
-    
-### [FinderHub](https://github.com/Efamamo/FinderHub)
-- **Description**: This is the web application for finding people across the top social media networks.FinderHub makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest,Youtube and GitHub.
+### [FinderHu](https://github.com/Efamamo/FinderHu)
+- **Description**: This is the web application for finding people across the top social media networks. FinderHu makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest, YouTube, and GitHub.
 - **Technologies**: React, axios
 - **Key Features**:
   - Searching for users
-    
 
-### [Personal Portfolio](https://github.com/Efamamo/Personal-Portifolio)
+### [Personal Portfolio](https://efamamo.github.io/UGR-1504-14-html-css-javascript/)
 - **Description**: This project is a comprehensive description of myself, showcasing my skills, experiences, and projects. It serves as an online portfolio to present my professional profile.
 - **Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind, Bulma
 
@@ -87,3 +83,8 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![EphremMamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efamamo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efamamo&layout=compact)
 
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ephrem-mamo/)
+- [Personal Website](https://efamamo.github.io/UGR-1504-14-html-css-javascript/)
+- [LeetCode](https://leetcode.com/u/ephrem_mamo/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+- [Email](mailto:ephremmamo555@gmail.com)
