@@ -23,7 +23,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Tools
+### Other Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
