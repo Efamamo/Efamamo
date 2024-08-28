@@ -15,6 +15,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ### Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTMX](https://img.shields.io/badge/-HTMX-5D6D7E?style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
@@ -22,6 +23,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ### Backend Frameworks
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Go Gin](https://img.shields.io/badge/-Go%20Gin-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Other Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
