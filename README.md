@@ -37,6 +37,8 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 - **Description**: Brainz Academy provides a comprehensive range of study materials to support your learning journey, including elementary school, high school, and higher-level education materials. It also features general knowledge facts and interactive quizzes based on these resources.
 - **Technologies**: React JS, Node JS, Express JS, MongoDB
 - **Key Features**:
+  - Authentication and Authorization
+  - Profile Management
   - Resources for Primary, Secondary, and Higher Education
   - General Knowledge Facts on Various Topics
   - Interactive Quizzes
@@ -44,12 +46,15 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 
 ### [Digitalized Idir](https://github.com/Efamamo/DigitalizedIdir)
 - **Description**: This project is based on Ethiopian culture, specifically the Idir, a traditional community-based social institution. The application digitalizes the various functions of Idir to facilitate better communication and management within the community.
-- **Technologies**: JavaScript, Express.js, MongoDB, EJS
+- **Technologies**: NextJS, Express.js, MongoDB, Tailwind
 - **Highlights**:
-  - Notifying Events to Users
+  - Payment Using Chapa
+  - Reminding Todays Events to Users
   - Remembering Deceased Members Using Memorial
   - Renting and Borrowing Items
+  - Reminding Return of Borrowed Items
   - News and Announcements
+  - Notifying News and Announcements
   - Reports Generation
 
 ### [VoteSphere](https://github.com/beka-birhanu/VoteSphere--class)
