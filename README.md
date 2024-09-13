@@ -78,7 +78,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
   - Displaying Results
   - Comments
 
-### [FinderHub](https://github.com/Efamamo/FinderHu)
+### [FinderHub](https://finder-hub-efa.vercel.app/)
 - **Description**: This is the web application for finding people across the top social media networks. FinderHub makes it easy to search for users on Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok, Reddit, Pinterest, YouTube, and GitHub.
 - **Technologies**: React, axios
 - **Key Features**:
