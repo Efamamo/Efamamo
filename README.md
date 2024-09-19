@@ -35,7 +35,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 
 ## 🚀 Projects
 
-### [Brainz Academy](https://github.com/Efamamo/BrainzAcademy)
+### [Brainz Academy](https://brainz-academy.vercel.app/)
 - **Description**: Brainz Academy provides a comprehensive range of study materials to support your learning journey, including elementary school, high school, and higher-level education materials. It also features general knowledge facts and interactive quizzes based on these resources.
 - **Technologies**: React JS, Node JS, Express JS, MongoDB
 - **Key Features**:
