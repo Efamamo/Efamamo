@@ -59,14 +59,15 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
   - Notifying News and Announcements
   - Reports Generation
 
-### [VoteSphere](https://github.com/beka-birhanu/VoteSphere--class)
-- **Description**: VoteSphere is a poll management application that allows users to work together within groups, managing polls efficiently. The application provides user authentication, authorization, and group-based poll management. This is a team project, and my role was front-end development.
-- **Technologies**: NestJS, PostgreSQL, Docker, JavaScript
+### [VoteSphere](https://vote-sphere-amber.vercel.app/)
+- **Description**: VoteSphere is a poll management application that allows users to work together within groups, managing polls efficiently. The application provides user authentication, authorization, and group-based poll management and commenting. This is a team project, and my role was front-end development.
+- **Technologies**: NestJS, PostgreSQL, Docker, React, Tailwind
 - **Key Features**:
   - Creating Groups
   - Adding Polls to Groups
   - Voting
   - Displaying Results
+  - Commenting
 
 ### [VoteSphere Mobile](https://github.com/Efamamo/VoteSphereBloc)
 - **Description**: This is the mobile version of the VoteSphere project. I participated in both frontend and backend development. The application provides user authentication, authorization, and group-based poll management. Managing States using bloc, riverpode and provider State management solutions.
