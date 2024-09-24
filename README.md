@@ -32,6 +32,9 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 
 ## 🚀 Projects
 
