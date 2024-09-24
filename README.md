@@ -46,7 +46,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
   - Interactive Quizzes
   - Score Tracking and Progress Monitoring
 
-### [Digitalized Idir](https://github.com/Efamamo/DigitalizedIdir)
+### [Digitalized Idir](https://github.com/Efamamo/Digital-Idir-Backend)
 - **Description**: This project is based on Ethiopian culture, specifically the Idir, a traditional community-based social institution. The application digitalizes the various functions of Idir to facilitate better communication and management within the community.
 - **Technologies**: NextJS, Express.js, MongoDB, Tailwind
 - **Highlights**:
