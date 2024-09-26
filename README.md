@@ -19,6 +19,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 ![HTMX](https://img.shields.io/badge/-HTMX-5D6D7E?style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![BLoC](https://img.shields.io/badge/-BLoC-48B0F1?style=flat&logo=bloc&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 
