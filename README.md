@@ -40,6 +40,19 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 
 ## 🚀 Projects
 
+### [Echo][https://echoooo.vercel.app/]
+- **Description**:  Echo is a dynamic social media platform designed to facilitate seamless communication and interaction among users. It allows users to post updates, comment on others’ posts, like and repost content, and connect with friends through friend requests. Users can also engage in live chats, join communities of interest, and stay updated with notifications.
+- **Technologies**: Next.js, Clerk, Shadcn, Pusher, MongoDB
+- **Key Features**:
+  - User Authentication and Authorization with Clerk
+  - Profile Management
+  - Posting, Commenting, and Liking Content
+  - Reposting for Wider Reach
+  - Sending and Accepting Friend Requests
+  - Live Chat Functionality using Pusher
+  - Community Engagement and Membership
+  - Real-time Notifications for Activities and Interactions
+
 ### [Brainz Academy](https://brainz-academy.vercel.app/)
 - **Description**: Brainz Academy provides a comprehensive range of study materials to support your learning journey, including elementary school, high school, and higher-level education materials. It also features general knowledge facts and interactive quizzes based on these resources.
 - **Technologies**: React JS, Node JS, Express JS, MongoDB
