@@ -40,7 +40,7 @@ I'm a Full-Stack Web and Mobile Application Developer with a passion for craftin
 
 ## 🚀 Projects
 
-### [Echo][https://echoooo.vercel.app/]
+### [Echo](https://echoooo.vercel.app/)
 - **Description**:  Echo is a dynamic social media platform designed to facilitate seamless communication and interaction among users. It allows users to post updates, comment on others’ posts, like and repost content, and connect with friends through friend requests. Users can also engage in live chats, join communities of interest, and stay updated with notifications.
 - **Technologies**: Next.js, Clerk, Shadcn, Pusher, MongoDB
 - **Key Features**:
